@@ -6,7 +6,6 @@ Free ‘plug and play’ set of SVG icons designed specifically for web projects
 
 [icon-cdn.wildmoney.pro](https://icon-cdn.wildmoney.pro)
 
-Made by [Alexander Madyankin] and [Roman Shamin].
 
 
 ## Usage
