@@ -1,10 +1,6 @@
 ![](https://icon-cdn.wildmoney.pro/evil-icons.png?wild)
 
-Free ‘plug and play’ set of SVG icons designed specifically for web projects. Available as a Ruby gem, a Node.js package and 
-
-/Gulp plugins. Just use icon names with your templates and styles — and all the rest will be done automagically.
-
-[icon-cdn.wildmoney.pro](https://icon-cdn.wildmoney.pro)
+Free ‘plug and play’ set of SVG icons designed specifically for web projects. 
 
 
 
@@ -25,8 +21,8 @@ http://caniuse.com/#search=inline%20svg
 Just include the assets into your page from CDN:
 
 ```html
-<link rel="stylesheet" href="https://icon-cdn.wildmoney.pro/assets/evil-icons.min.css" >
-<script src="https://icon-cdn.wildmoney.pro/assets/evil-icons.min.js" type="module" ></script>
+<link rel="stylesheet" href="https://icon-cdn.wildmoney.pro/assets/evil-icons.min.css">
+<script src="https://icon-cdn.wildmoney.pro/assets/evil-icons.min.js" type="module"></script>
 ```
 
 
