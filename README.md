@@ -25,8 +25,8 @@ http://caniuse.com/#search=inline%20svg
 Just include the assets into your page from CDN:
 
 ```html
-<link rel="stylesheet" href="https://icon-cdn.wildmoney.pro/assets/evil-icons.min.css">
-<script src="https://icon-cdn.wildmoney.pro/assets/evil-icons.min.js type="module"></script>
+<link rel="stylesheet" href="https://icon-cdn.wildmoney.pro/assets/evil-icons.min.css" >
+<script src="https://icon-cdn.wildmoney.pro/assets/evil-icons.min.js type="module" ></script>
 ```
 
 
