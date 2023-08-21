@@ -12,7 +12,7 @@ Free ‘plug and play’ set of SVG icons designed specifically for web projects
 
 ### Supported browsers
 We support IE 9+, Firefox, Chrome, Safari (desktop and mobile), Opera, Android 4+.
-http://caniuse.com/#search=inline%20svg
+
 
 
 
